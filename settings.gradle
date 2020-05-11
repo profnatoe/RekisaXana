@@ -1,0 +1,5 @@
+rootProject.name = 'RekisaXana'
+include 'backend'
+include 'client'
+include 'application'
+
